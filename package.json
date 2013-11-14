@@ -7,9 +7,9 @@
     "license": "WTFPL",
     "repository": {
         "type": "git",
-        "url": "git://github.com/domenic/restify-oauth2.git"
+        "url": "git://github.com/DinkDonk/restify-oauth2.git"
     },
-    "bugs": "http://github.com/domenic/restify-oauth2/issues",
+    "bugs": "http://github.com/DinkDonk/restify-oauth2/issues",
     "main": "lib/index.js",
     "scripts": {
         "test": "npm run test-ropc-unit && npm run test-cc-unit && npm run test-ropc-integration && npm run test-cc-integration",
